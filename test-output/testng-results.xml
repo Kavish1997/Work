@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-27T17:08:59 IST" name="Default suite" finished-at="2022-04-27T17:09:35 IST" duration-ms="36380">
+    <groups>
+    </groups>
+    <test started-at="2022-04-27T17:08:59 IST" name="Default test" finished-at="2022-04-27T17:09:35 IST" duration-ms="36380">
+      <class name="Test.LoginTest">
+        <test-method is-config="true" signature="callBrowser()[pri:0, instance:Test.LoginTest@65f095f8]" started-at="2022-04-27T17:08:59 IST" name="callBrowser" finished-at="2022-04-27T17:09:22 IST" duration-ms="23150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callBrowser -->
+        <test-method signature="LoginZerodha()[pri:0, instance:Test.LoginTest@65f095f8]" started-at="2022-04-27T17:09:22 IST" name="LoginZerodha" finished-at="2022-04-27T17:09:35 IST" duration-ms="13131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginZerodha -->
+      </class> <!-- Test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
