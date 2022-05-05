@@ -10,6 +10,11 @@ public class Test2 {
 	@Test
    public void surname()
 {
-	   System.out.println("kumar");
+	   System.out.println("kumar name");
 	   }
+	public void hold() {
+		System.out.println("kavishh");
+	}
+	
+	
 }
